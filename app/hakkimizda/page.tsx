@@ -91,7 +91,7 @@ export default function HakkimizdaPage() {
               <div className="space-y-4 text-gray-600 leading-relaxed">
                 <p>
                   2004 yılında kurulan Ahlat Tasarım, reklam ve tasarım sektöründe 
-                  Türkiye'nin önde gelen firmalarından biridir. Küçük bir atölyeden 
+                  Türkiye&apos;nin önde gelen firmalarından biridir. Küçük bir atölyeden 
                   başlayan yolculuğumuz, bugün modern teknoloji ve uzman kadromuzla 
                   binlerce projeyi başarıyla tamamlamıştır.
                 </p>

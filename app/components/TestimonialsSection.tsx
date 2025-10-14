@@ -105,7 +105,7 @@ const TestimonialsSection = () => {
 
               {/* Content */}
               <p className="text-gray-600 text-center mb-6 leading-relaxed italic">
-                "{testimonial.content}"
+                &ldquo;{testimonial.content}&rdquo;
               </p>
 
               {/* Author */}
